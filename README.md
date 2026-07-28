@@ -52,3 +52,5 @@ Suggestions and improvements are welcome. Feel free to fork the repository and s
 ## 📄 License
 
 This repository is intended for educational purposes.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/drizcode4350/data_analytics_fundamentals/blob/main/employee_data.ipynb)
